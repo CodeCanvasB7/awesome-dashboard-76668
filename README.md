@@ -1,2 +1,2 @@
 # awesome-dashboard-76668
-React app generated from template: landing-page
+React app generated with custom deployment.
